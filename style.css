@@ -1,0 +1,48 @@
+.Topcontainer{
+    padding: 30px;
+    background-image: url('https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png');
+    height: 40vh;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.heading {
+    color: #ffffff;
+}
+#bookHeading{
+    text-align: center;
+}
+#NotFound{
+    text-align: center;
+    color: red;
+}
+
+.search-input {
+    border: none;
+    border: solid 2px white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.search-input:hover {
+    border: solid 2px yellow;
+}
+
+.card {
+    margin: 20px;
+    height: 300px;
+    width: 200px;
+    border-radius: 5px;
+
+}
+
+.cardImage {
+    width: 200px;
+    height: 250px;
+}
+
+.bookAuthor {
+    text-align: center;
+    padding-top: 3px;
+}
